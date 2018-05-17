@@ -1,0 +1,9 @@
+D:\vs pro\SimplWin\SimplWin\bin\Debug\SimplWin.exe.config
+D:\vs pro\SimplWin\SimplWin\bin\Debug\SimplWin.exe
+D:\vs pro\SimplWin\SimplWin\bin\Debug\SimplWin.pdb
+D:\vs pro\SimplWin\SimplWin\obj\Debug\SimplWin.WinStart.resources
+D:\vs pro\SimplWin\SimplWin\obj\Debug\SimplWin.Properties.Resources.resources
+D:\vs pro\SimplWin\SimplWin\obj\Debug\SimplWin.csproj.GenerateResource.Cache
+D:\vs pro\SimplWin\SimplWin\obj\Debug\SimplWin.exe
+D:\vs pro\SimplWin\SimplWin\obj\Debug\SimplWin.pdb
+D:\vs pro\SimplWin\SimplWin\obj\Debug\SimplWin.csprojResolveAssemblyReference.cache
